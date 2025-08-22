@@ -10,8 +10,7 @@ It’s a beginner-friendly **data analysis project that shows how NumPy can be a
 - Calculates:
   - 📊 Daily returns (difference between today & yesterday)  
   - 📈 Highest & lowest stock price  
-  - 📉 Moving average (5-day window)  
-
+  - 📉 Moving average 
 ---
 
 ## ⚡ Installation
