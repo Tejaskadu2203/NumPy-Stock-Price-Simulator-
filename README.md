@@ -1,14 +1,18 @@
-# 📈 NumPy Stock Price Simulator
+# 📈 NumPy Stock Price Simulator  
 
-This project simulates **random stock prices** using NumPy and performs simple financial analysis.  
-It’s a beginner-friendly **data analysis project** that shows how NumPy can be applied to finance.
+This project simulates random stock prices using NumPy and performs simple financial analysis.  
+It’s a beginner-friendly **data analysis project that shows how NumPy can be applied to finance.  
+
+---
 
 ## 🔎 Project Overview
-- Generates 30 random stock prices between 100–500
+- Generates 30 random stock prices between 100–500  
 - Calculates:
-  - Daily returns (difference between today & yesterday)
-  - Highest & lowest stock price
-  - Moving average (5-day window)
+  - 📊 Daily returns (difference between today & yesterday)  
+  - 📈 Highest & lowest stock price  
+  - 📉 Moving average (5-day window)  
+
+---
 
 ## ⚡ Installation
 Clone the repository and install dependencies:
